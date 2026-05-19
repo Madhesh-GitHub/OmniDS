@@ -1,0 +1,16 @@
+CustomerID,Age,Tenure,Monthly_Charges,Total_Charges,Internet_Service,Contract,Churn
+1001,32,12,65.5,786,Fiber optic,Month-to-month,0
+1002,45,24,89.2,2140,DSL,Two year,0
+1003,28,3,45.0,135,Fiber optic,Month-to-month,1
+1004,56,36,110.8,3989,DSL,Two year,0
+1005,38,8,72.3,578,Fiber optic,One year,1
+1006,29,2,50.0,100,DSL,Month-to-month,1
+1007,52,48,75.0,3600,DSL,Two year,0
+1008,41,15,65.0,975,Fiber optic,One year,0
+1009,35,6,120.0,720,Fiber optic,Month-to-month,1
+1010,47,30,80.0,2400,DSL,Two year,0
+1011,26,1,55.0,55,Fiber optic,Month-to-month,1
+1012,58,42,100.0,4200,DSL,Two year,0
+1013,33,9,60.0,540,DSL,Month-to-month,1
+1014,51,27,95.0,2565,Fiber optic,One year,0
+1015,30,4,70.0,280,Fiber optic,Month-to-month,1
