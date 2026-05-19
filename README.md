@@ -274,7 +274,7 @@ For issues or feedback:
 
 ## 📝 License
 
-Built for ABB EngineeredX Hackathon 2024
+Built for ABB EngineeredX Hackathon 2026
 
 ## 🙏 Acknowledgments
 
